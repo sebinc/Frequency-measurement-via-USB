@@ -77,6 +77,8 @@ blinkStatusValid = TRUE;
 void delayMs();
 USBDeviceInit();
 }
+
+
 // Process input and output
 void delayMs()
 {
@@ -85,6 +87,9 @@ for(i=0;i<=300;i++)
 {
 for(j=0;j<=50;j++);
 }}
+
+
+
 void ProcessIO(void)
 {
 // If we are not in the configured state just return
