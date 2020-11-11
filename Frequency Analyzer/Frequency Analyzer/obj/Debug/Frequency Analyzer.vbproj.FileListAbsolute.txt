@@ -1,0 +1,60 @@
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.exe.config
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.xml
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Analyzer.main.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Analyzer.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.xml
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.vbprojResolveAssemblyReference.cache
+C:\Users\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.exe.config
+C:\Users\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.exe
+C:\Users\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.xml
+C:\Users\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.pdb
+C:\Users\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.exe
+C:\Users\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.pdb
+C:\Users\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.xml
+C:\Users\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.vbprojResolveAssemblyReference.cache
+C:\Users\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Analyzer.main.resources
+C:\Users\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Analyzer.Resources.resources
+C:\Users\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.vbproj.GenerateResource.Cache
+C:\Users\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\bin\Debug\ml\Frequency Analyzer.resources.dll
+C:\Users\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Analyzer.form_setup.resources
+C:\Users\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Analyzer.form_setup.ml.resources
+C:\Users\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\ml\Frequency Analyzer.resources.dll
+D:\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.exe.config
+D:\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.exe
+D:\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.xml
+D:\SEBIN\Documents\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.pdb
+E:\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.exe.config
+E:\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.xml
+E:\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.pdb
+E:\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.exe
+E:\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.pdb
+E:\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.xml
+E:\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\bin\Debug\ml\Frequency Analyzer.resources.dll
+E:\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.vbprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Analyzer.main.resources
+E:\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Analyzer.form_setup.resources
+E:\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Analyzer.Resources.resources
+E:\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Analyzer.form_setup.ml.resources
+E:\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.vbproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\ml\Frequency Analyzer.resources.dll
+E:\Visual Studio 2013\Projects\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.exe
+D:\other files\0SEBIN C JOSEPH FILES\mini project\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.exe.config
+D:\other files\0SEBIN C JOSEPH FILES\mini project\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.exe
+D:\other files\0SEBIN C JOSEPH FILES\mini project\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.xml
+D:\other files\0SEBIN C JOSEPH FILES\mini project\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.pdb
+D:\other files\0SEBIN C JOSEPH FILES\mini project\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.exe
+D:\other files\0SEBIN C JOSEPH FILES\mini project\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.pdb
+D:\other files\0SEBIN C JOSEPH FILES\mini project\Frequency Analyzer\Frequency Analyzer\bin\Debug\Frequency Analyzer.xml
+D:\other files\0SEBIN C JOSEPH FILES\mini project\Frequency Analyzer\Frequency Analyzer\bin\Debug\ml\Frequency Analyzer.resources.dll
+D:\other files\0SEBIN C JOSEPH FILES\mini project\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.vbprojResolveAssemblyReference.cache
+D:\other files\0SEBIN C JOSEPH FILES\mini project\Frequency Analyzer\Frequency Analyzer\obj\Debug\Analyzer.main.resources
+D:\other files\0SEBIN C JOSEPH FILES\mini project\Frequency Analyzer\Frequency Analyzer\obj\Debug\Analyzer.form_setup.resources
+D:\other files\0SEBIN C JOSEPH FILES\mini project\Frequency Analyzer\Frequency Analyzer\obj\Debug\Analyzer.Resources.resources
+D:\other files\0SEBIN C JOSEPH FILES\mini project\Frequency Analyzer\Frequency Analyzer\obj\Debug\Analyzer.form_setup.ml.resources
+D:\other files\0SEBIN C JOSEPH FILES\mini project\Frequency Analyzer\Frequency Analyzer\obj\Debug\Frequency Analyzer.vbproj.GenerateResource.Cache
+D:\other files\0SEBIN C JOSEPH FILES\mini project\Frequency Analyzer\Frequency Analyzer\obj\Debug\ml\Frequency Analyzer.resources.dll
